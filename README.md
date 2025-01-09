@@ -21,10 +21,10 @@
   <a href="https://instagram.com/darien_c_27" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="darien_c_27" height="30" width="40" />
   </a>
-  <a href="https://discord.gg/darienestebanvesgacarvajal" target="blank">
+  <a href="https://discord.gg/darienestebanvesgacarvajal" target="blanck">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="darienestebanvesgacarvajal" height="30" width="40" />
   </a>
-  <a href="https://wa.me/573204522741" target="blank">
+  <a href="https://wa.me/573108027727" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Contact via WhatsApp" height="30" width="40" />
   </a>
 </p>
