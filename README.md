@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Darien👋</h1>
+<h1 align="center">Hi! I'm 🐺 Darien 🌸</h1>
 <h3 align="center">
   A technology enthusiast with a growing background in Python, Git, and Linux. Passionate about problem-solving and creating inclusive solutions while continuously learning and seeking opportunities to contribute to innovative projects that make a difference in the world of technology.
 </h3>
@@ -21,7 +21,7 @@
   <a href="https://instagram.com/darien_c_27" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="darien_c_27" height="30" width="40" />
   </a>
-  <a href="https://discord.gg/darienestebanvesgacarvajal" target="blanck">
+  <a href="https://discord.gg/Hm8njfkTbf" target="blanck">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="darienestebanvesgacarvajal" height="30" width="40" />
   </a>
   <a href="https://wa.me/573108027727" target="blank">
