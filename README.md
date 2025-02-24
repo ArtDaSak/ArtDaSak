@@ -61,6 +61,14 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="27" height="50"/>
   </a>
+    &emsp;
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="27" height="50"/>
+  </a>
+    &emsp;  
+  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+    <img src="https://oregoncoast.edu/wp-content/uploads/2024/02/canva-logo.png" alt="Canva" width="35" eight="50"/>
+  </a>
 </p>
 
 <p align="center">
