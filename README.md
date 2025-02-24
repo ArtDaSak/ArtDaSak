@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm 🐺 Darien 🌸</h1>
+<h1 align="center">Hi! I'm Darien 🧑🏻‍💻</h1>
 
 <h4 align="center">
   A technology enthusiast with a growing background in Python, Git, and Linux. Passionate about problem-solving and creating inclusive solutions while continuously learning and seeking opportunities to contribute to innovative projects that make a difference in the world of technology.
