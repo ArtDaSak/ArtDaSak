@@ -33,6 +33,9 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="27" width="50"/>
   </a>
 </p>
+<p align="center">
+  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=darien.c.wrk@gmail.com&su=Hi,+dear+Darien.&body=I+want+to+contact+you+to…"><i><tt><b>darien.c.wrk@gmail.com</b></i></tt></a>
+</p>
 
 >[!IMPORTANT]
 >You can contact me more easily by _WhatsApp_.
