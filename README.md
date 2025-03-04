@@ -40,7 +40,7 @@
 >[!IMPORTANT]
 >You can contact me more easily by _WhatsApp_.
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Skills:</h3>
 <p align="center">
   <a href="https://www.linux.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="27" height="50"/>
