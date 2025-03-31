@@ -5,11 +5,11 @@
 </h4>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=DarienEstebanVesgaCarvajal&theme=dark&hide_border=true&border_radius=7&date_format=j%20M%5B%20Y%5D&card_width=900&card_height=200&background=45%2C021826%2C5D14DB" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=artdasak&theme=dark&hide_border=true&border_radius=7&date_format=j%20M%5B%20Y%5D&card_width=900&card_height=200&background=45%2C021826%2C5D14DB" alt="GitHub Streak"/>
 </p>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=darienestebanvesgacarvajal&label=Profile%20Views&color=845FB3&style=flat" alt="Profile Views" height="27" width="157"/>
+  <img src="https://komarev.com/ghpvc/?username=DarienEstebanVesgaCarvajal&label=Profile%20Views&color=845FB3&style=flat" alt="Profile Views" height="27" width="157"/>
 </p>
 
 >[!NOTE]
@@ -76,11 +76,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darienestebanvesgacarvajal&show_icons=true&locale=en&theme=algolia" alt="Github Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=artdasak&show_icons=true&locale=en&theme=algolia" alt="Github Stats"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=DarienEstebanVesgaCarvajal&theme=nord" alt="Github Trophys"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=ArtDaSak&theme=nord" alt="Github Trophys"/>
   </a>
 </p>
