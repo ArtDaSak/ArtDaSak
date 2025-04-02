@@ -26,11 +26,15 @@
   </a>
   &emsp;
   <a href="https://discord.gg/Hm8njfkTbf" target="blanck">
-    <img align="center" src="https://static.vecteezy.com/system/resources/previews/023/986/880/non_2x/discord-logo-discord-logo-transparent-discord-icon-transparent-free-free-png.png" alt="Discord Channel" width="50"/>
+    <img align="center" src="https://static.vecteezy.com/system/resources/previews/023/986/880/non_2x/discord-logo-discord-logo-transparent-discord-icon-transparent-free-free-png.png" alt="Discord Channel" width="47"/>
   </a>
   &emsp;
   <a href="https://wa.me/573108027727" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="27" width="50"/>
+  </a>
+  &emsp;
+  <a href="https://t.me/ArtDaSak" target="blank">
+    <img align="center" src="https://img.icons8.com/sf-ultralight-filled/512/4D4D4D/telegram.png" alt="Telegram" width="47"/>
   </a>
 </p>
 <p align="center">
