@@ -72,7 +72,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=darienestebanvesgacarvajal&show_icons=true&locale=en&layout=donut&theme=radical" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=artdasak&show_icons=true&locale=en&layout=donut&theme=radical" alt="Most Used Languages"/>
 </p>
 
 <p align="center">
@@ -81,6 +81,6 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ArtDaSak&theme=nord" alt="Github Trophys"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=artdasak&theme=nord" alt="Github Trophys"/>
   </a>
 </p>
