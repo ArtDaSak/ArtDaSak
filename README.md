@@ -36,6 +36,9 @@
 <p align="center">
   <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=darien.c.wrk@gmail.com&su=Hi,+dear+Darien.&body=I+want+to+contact+you+to…"><i><tt><b>darien.c.wrk@gmail.com</b></i></tt></a>
 </p>
+<p align="center">
+ <b><code>+57 310 802 7727</code></b>
+</p>
 
 >[!IMPORTANT]
 >You can contact me more easily by _WhatsApp_.
