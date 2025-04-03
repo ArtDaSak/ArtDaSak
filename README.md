@@ -52,35 +52,47 @@
 <h3 align="left">Skills:</h3>
 <div align="center">
   <a href="https://www.linux.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="27" height="50"/>
-  </a>
-  &emsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="27" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="27"/>
   </a>
   &emsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="27" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="27"/>
+  </a>
+  &emsp;
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="30"/>
+  </a>
+  &emsp;
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="27"/>
+  </a>
+    &emsp;
+  <a href="https://staruml.io/" target="_blank" rel="noreferrer">
+    <img src="https://media.imgcdn.org/repo/2023/03/staruml/staruml-for-macos-logo.png" alt="StarUML" width="29"/>
+  </a>
+  &emsp;
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30"/>
   </a>
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="27" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="27"/>
   </a>
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="27" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="27"/>
   </a>
-    &emsp;
+  &emsp;
   <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="27" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="27"/>
   </a>
-    &emsp;
+  &emsp;
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="27" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="27"/>
   </a>
-    &emsp;  
+  &emsp;  
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-    <img src="https://oregoncoast.edu/wp-content/uploads/2024/02/canva-logo.png" alt="Canva" width="35" eight="50"/>
+    <img src="https://oregoncoast.edu/wp-content/uploads/2024/02/canva-logo.png" alt="Canva" width="30"/>
   </a>
 </div>
 
