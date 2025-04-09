@@ -71,6 +71,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="27"/>
   </a>
     &emsp;
+  <a href="https://colab.google/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/33467679?s=280&v=4" alt="Google Colaboratory" width="32"/>
+  </a>
+    &emsp;
   <a href="https://staruml.io/" target="_blank" rel="noreferrer">
     <img src="https://media.imgcdn.org/repo/2023/03/staruml/staruml-for-macos-logo.png" alt="StarUML" width="29"/>
   </a>
