@@ -83,6 +83,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30"/>
   </a>
   &emsp;
+  <a href="https://www.json.org/json-es.html" target="_blank" rel="noreferrer">
+    <img src="https://www.json.org/img/json160.gif" alt="JSON" width="27"/>
+  </a>
+  &emsp;
+  <a href="https://daringfireball.net/projects/markdown/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.commonmark.org/uploads/default/original/2X/3/366f3614de6996d79a131fdf9b41ed7d65cfe181.png" alt="Markdown" width="42"/>
+  </a>
+  &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="27"/>
   </a>
