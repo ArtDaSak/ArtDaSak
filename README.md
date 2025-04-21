@@ -108,7 +108,7 @@
   </a>
   &emsp;  
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-    <img src="https://oregoncoast.edu/wp-content/uploads/2024/02/canva-logo.png" alt="Canva" width="30"/>
+    <img src="https://freelogopng.com/images/all_img/1656733637logo-canva-png.png" alt="Canva" width="30"/>
   </a>
 </div>
 
