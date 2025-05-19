@@ -15,7 +15,7 @@
 <br>
 
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=ArtDaSak&label=Profile%20Views&color=845FB3&style=flat" alt="Profile Views" height="27" width="157"/>
+  <img src="https://komarev.com/ghpvc/?username=ArtDaSak&label=Profile%20Views&color=190040&style=flat" alt="Profile Views" height="27" width="157"/>
 </div>
 
 >[!NOTE]
