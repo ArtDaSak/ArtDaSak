@@ -66,25 +66,33 @@
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="30"/>
   </a>
-    &emsp;
-    <a href="https://www.scrum.org/" target="_blank" rel="noreferrer">
+  &emsp;
+  <a href="https://www.scrum.org/" target="_blank" rel="noreferrer">
     <img src="https://images.credly.com/images/db768524-81d9-435e-96fc-33b517e15616/blob.png" alt="SCRUM" width="30"/>
   </a>
   &emsp;
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="27"/>
   </a>
-    &emsp;
+  &emsp;
   <a href="https://colab.google/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/33467679?s=280&v=4" alt="Google Colaboratory" width="32"/>
   </a>
-    &emsp;
+  &emsp;
   <a href="https://staruml.io/" target="_blank" rel="noreferrer">
     <img src="https://media.imgcdn.org/repo/2023/03/staruml/staruml-for-macos-logo.png" alt="StarUML" width="29"/>
   </a>
   &emsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30"/>
+  </a>
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/SQL" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL" width="27"/>
+  </a>
+  &emsp;
+  <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
+    <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="30"/>
   </a>
   &emsp;
   <a href="https://www.json.org/json-es.html" target="_blank" rel="noreferrer">
@@ -115,6 +123,7 @@
     <img src="https://freelogopng.com/images/all_img/1656733637logo-canva-png.png" alt="Canva" width="30"/>
   </a>
 </div>
+
 
 <br>
 
