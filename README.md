@@ -9,7 +9,8 @@
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=artdasak&theme=dark&hide_border=true&border_radius=7&date_format=j%20M%5B%20Y%5D&card_width=900&card_height=200&background=45%2C021826%2C5D14DB" alt="GitHub Streak"/>
+<img href="https://git.io/streak-stats"
+src="https://github-readme-streak-stats.herokuapp.com?user=artdasak&exclude_days=Sun&theme=dark&hide_border=true&border_radius=7&date_format=j%20M%5B%20Y%5D&card_width=900&card_height=200&background=45%2C021826%2C5D14DB" alt="GitHub Streak"/>
 </div>
 
 <br>
