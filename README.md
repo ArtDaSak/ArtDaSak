@@ -165,7 +165,7 @@ src="https://github-readme-streak-stats.herokuapp.com?user=artdasak&exclude_days
 <details open>
   <summary><strong>📊 More Stats:</strong></summary>
   <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=artdasak&show_icons=true&locale=en&layout=donut&theme=radical" alt="Most Used Languages"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=artdasak&show_icons=true&locale=en&layout=donut&theme=algolia" alt="Most Used Languages"/>
   </div>
   <br>
   <div align="center">
@@ -175,6 +175,11 @@ src="https://github-readme-streak-stats.herokuapp.com?user=artdasak&exclude_days
   <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img src="https://github-profile-trophy.vercel.app/?username=artdasak&theme=algolia" alt="Github Trophys"/>
+    </a>
+  </div>
+  <div align="center">
+    <a href="https://github.com/yoshi389111/github-profile-3d-contrib">
+      <img src="./profile-3d-contrib/profile-night-view.svg">
     </a>
   </div>
 </details>
