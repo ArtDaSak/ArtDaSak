@@ -165,10 +165,6 @@ src="https://github-readme-streak-stats.herokuapp.com?user=artdasak&exclude_days
 <details open>
   <summary><strong>📊 More Stats:</strong></summary>
   <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=artdasak&show_icons=true&locale=en&layout=donut&theme=algolia" alt="Most Used Languages"/>
-  </div>
-  <br>
-  <div align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=artdasak&show_icons=true&locale=en&theme=algolia" alt="Github Stats"/>
   </div>
   <br>
