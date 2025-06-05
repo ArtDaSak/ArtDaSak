@@ -5,7 +5,7 @@
 </h4>
 
 <div align="center">
-  <a href="https://artdasak.github.io/ArtDaSak/"><img src="./assets/resources/portafolio.png"></a>
+  <a href="https://artdasak.github.io/ArtDaSak/"><img src="./assets/resources/portfolio.png"></a>
 </div>
 
 <div align="center">
@@ -16,7 +16,9 @@ src="https://github-readme-streak-stats.herokuapp.com?user=artdasak&exclude_days
 <br>
 
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=ArtDaSak&label=Profile%20Views&color=190040&style=flat" alt="Profile Views" height="27" width="157"/>
+  <a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=ArtDaSak&label=Profile%20Views&color=5540d1&style=badge&abbreviated=true" alt="Profile Views" height="27" />
+  </a>
 </div>
 
 >[!NOTE]
@@ -53,129 +55,150 @@ src="https://github-readme-streak-stats.herokuapp.com?user=artdasak&exclude_days
 
 >[!IMPORTANT]
 >You can contact me more easily by _WhatsApp_.
->
-<h3 align="left">🛠️ My Skill Set:</h3>
 
-<table align="center" cellpadding="10">
-  <tr>
-    <th align="left">🌐 Frontend</th>
-    <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40"/>
-      </a>
-      &nbsp;&nbsp;
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40"/>
-      </a>
-      &nbsp;&nbsp;
-      <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <th align="left">💻 Backend & Databases</th>
-    <td align="center">
-      <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/>
-      </a>
-      &nbsp;&nbsp;
-      <a href="https://developer.mozilla.org/en-US/docs/Glossary/SQL" target="_blank" rel="noreferrer">
-        <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL" width="40"/>
-      </a>
-      &nbsp;&nbsp;
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="40"/>
-      </a>
-      &nbsp;&nbsp;
-      <a href="https://www.json.org/json-es.html" target="_blank" rel="noreferrer">
-        <img src="https://www.json.org/img/json160.gif" alt="JSON" width="40"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <th align="left">🎨 UI/UX & Design</th>
-    <td align="center">
-      <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40"/>
-      </a>
-      &nbsp;&nbsp;
-      <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-        <img src="https://freelogopng.com/images/all_img/1656733637logo-canva-png.png" alt="Canva" width="40"/>
-      </a>
-      &nbsp;&nbsp;
-      <a href="https://daringfireball.net/projects/markdown/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.commonmark.org/uploads/default/original/2X/3/366f3614de6996d79a131fdf9b41ed7d65cfe181.png" alt="Markdown" width="40"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <th align="left">🔧 Version Control & Collaboration</th>
-    <td align="center">
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40"/>
-      </a>
-      &nbsp;&nbsp;
+<details open>  
+  <summary><strong>🛠️ My Skill Set:</strong></summary>  
+  <table align="center" cellpadding="10">  
+    <tr>  
+      <th align="left">🌐 Front-End</th>  
+      <td align="center">  
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">  
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40"/>  
+        </a>  
+        &nbsp;&nbsp;  
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">  
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40"/>  
+        </a>  
+        &nbsp;&nbsp;  
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">  
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>  
+        </a>  
+      </td>  
+    </tr>  
+    <tr>  
+      <th align="left">💻 Back-End</th>  
+      <td align="center">  
+        <a href="https://www.python.org/" target="_blank" rel="noreferrer">  
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/>  
+        </a>  
+        &nbsp;&nbsp;  
+        <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer">  
+          <img src="https://www.json.org/img/json160.gif" alt="JSON" width="40"/>  
+        </a>  
+      </td>  
+    </tr>  
+    <tr>  
+      <th align="left">💾 Databases</th>  
+      <td align="center">  
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">  
+          <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="42"/>  
+        </a>
+        &nbsp;&nbsp;  
+        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">  
+          <img src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-langugae-freebies-pack-logos-icons-1175140.png?f=webp" alt="MongoDB" width="42"/>  
+        </a>  
+      </td>  
+    </tr>  
+    <tr>  
+      <th align="left">🎨 UI/UX & Design</th>  
+      <td align="center">  
+        <a href="https://www.figma.com/" target="_blank" rel="noreferrer">  
+          <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40"/>  
+        </a>  
+        &nbsp;&nbsp;  
+        <a href="https://www.canva.com/" target="_blank" rel="noreferrer">  
+          <img src="https://freelogopng.com/images/all_img/1656733637logo-canva-png.png" alt="Canva" width="40"/>  
+        </a>  
+      </td>  
+    </tr>  
+    <tr>  
+      <th align="left">🔧 Version Control</th>  
+      <td align="center">  
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">  
+          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40"/>
+        </a>  
+        &nbsp;&nbsp;
       <a href="https://github.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40"/>
       </a>
-      &nbsp;&nbsp;
-      <a href="https://www.scrum.org/" target="_blank" rel="noreferrer">
-        <img src="https://images.credly.com/images/db768524-81d9-435e-96fc-33b517e15616/blob.png" alt="SCRUM" width="40"/>
-      </a>
+      </td>  
+    </tr>  
+    <tr>
+      <th align="left">🤝 Collaboration</th>
+        <td align="center">
+        <a href="https://www.scrum.org/" target="_blank" rel="noreferrer">
+          <img src="https://images.credly.com/images/db768524-81d9-435e-96fc-33b517e15616/blob.png" alt="SCRUM" width="40"/>
+        </a>
     </td>
-  </tr>
-  <tr>
-    <th align="left">💼 IDEs & Dev Environments</th>
-    <td align="center">
-      <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40"/>
-      </a>
-      &nbsp;&nbsp;
-      <a href="https://colab.google/" target="_blank" rel="noreferrer">
-        <img src="https://avatars.githubusercontent.com/u/33467679?s=280&v=4" alt="Google Colab" width="40"/>
-      </a>
-      &nbsp;&nbsp;
-      <a href="https://staruml.io/" target="_blank" rel="noreferrer">
-        <img src="https://media.imgcdn.org/repo/2023/03/staruml/staruml-for-macos-logo.png" alt="StarUML" width="40"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <th align="left">🐧 Operating Systems</th>
-    <td align="center">
-      <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <th align="left">🎬 Media Tools</th>
-    <td align="center">
-      <a href="https://www.capcut.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.prod.website-files.com/64ea57571d50b02423c4505d/64fb219ade937671b42e011e_capcut%20logo%20png.png" alt="CapCut" width="40"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
+      </td>
+    </tr>
+    <tr>
+      <th align="left">💼 IDEs & Development Environments</th>
+      <td align="center">
+        <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40"/>
+        </a>
+        &nbsp;&nbsp;
+        <a href="https://colab.google/" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/33467679?s=280&v=4" alt="Google Colab" width="40"/>
+        </a>
+        &nbsp;&nbsp;
+        <a href="https://staruml.io/" target="_blank" rel="noreferrer">
+          <img src="https://media.imgcdn.org/repo/2023/03/staruml/staruml-for-macos-logo.png" alt="StarUML" width="40"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <th align="left">🖥️ Operating Systems</th>
+      <td align="center">
+        <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40"/>
+        </a>
+        &nbsp;&nbsp;
+        <a href="https://blogs.windows.com/" target="_blank" rel="noreferrer">
+          <img src="https://img.icons8.com/color/512/windows-10.png" alt="Windows" width="40"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <th align="left">🗂️ Project Management</th>
+      <td align="center">
+        <a href="https://trello.com/" target="_blank" rel="noreferrer">
+          <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="Trello" width="37"/>
+        </a>
+        &nbsp;&nbsp;
+        <a href="https://www.notion.so/" target="_blank" rel="noreferrer">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion" width="40"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <th align="left">🎬 Media Tools</th>
+      <td align="center">
+        <a href="https://www.capcut.com/" target="_blank" rel="noreferrer">
+          <img src="https://cdn.prod.website-files.com/64ea57571d50b02423c4505d/64fb219ade937671b42e011e_capcut%20logo%20png.png" alt="CapCut" width="40"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</details>
 <br>
 
 
 <details open>
   <summary><strong>📊 More Stats:</strong></summary>
   <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=artdasak&show_icons=true&locale=en&theme=algolia" alt="Github Stats"/>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=artdasak&show_icons=true&locale=en&bg_color=DEG,021826,5D14DB&hide_border=true&text_color=EBEBFF&title_color=14BFC8&icon_color=14BFC8" alt="Github Stats"/>
   </div>
-  <br>
   <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=artdasak&theme=algolia" alt="Github Trophys"/>
+      <img src="https://github-profile-trophy.vercel.app/?username=artdasak&theme=gitdimmed&title=-Reviews&no-frame=true&column=7&no-bg=true" alt="Github Trophys"/>
     </a>
   </div>
   <div align="center">
     <a href="https://github.com/yoshi389111/github-profile-3d-contrib">
-      <img src="./profile-3d-contrib/profile-night-view.svg">
+      <img src="./profile-3d-contrib/profile-night-view.svg" alt="Github Contrib" width="900">
     </a>
   </div>
 </details>
