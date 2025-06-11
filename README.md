@@ -49,9 +49,9 @@ src="https://github-readme-streak-stats.herokuapp.com?user=artdasak&exclude_days
 <p align="center">
   <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=darien.c.wrk@gmail.com&su=Hi,+dear+Darien.&body=I+want+to+contact+you+to…"><i><tt><b>darien.c.wrk@gmail.com</b></i></tt></a>
 </p>
-<p align="center">
+<!-- <p align="center">
  <a href="https://vcard.link/card/IZu9.vcf"><b><code>+57 310 802 7727</code></b></a>
-</p>
+</p> -->
 
 >[!IMPORTANT]
 >You can contact me more easily by _Discord_.
