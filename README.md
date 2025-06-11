@@ -29,22 +29,22 @@ src="https://github-readme-streak-stats.herokuapp.com?user=artdasak&exclude_days
   <a href="https://www.linkedin.com/in/darien-carvajal/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="27" width="50"/>
   </a>
-  &emsp;
+  <!-- &emsp;
   <a href="https://instagram.com/darien_c_27" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="27" width="50"/>
-  </a>
+  </a> -->
   &emsp;
   <a href="https://discord.gg/Hm8njfkTbf" target="blanck">
     <img align="center" src="https://static.vecteezy.com/system/resources/previews/023/986/880/non_2x/discord-logo-discord-logo-transparent-discord-icon-transparent-free-free-png.png" alt="Discord Channel" width="47"/>
   </a>
-  &emsp;
+  <!-- &emsp;
   <a href="https://wa.me/573108027727" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="27" width="50"/>
   </a>
   &emsp;
   <a href="https://t.me/ArtDaSak" target="blank">
     <img align="center" src="https://img.icons8.com/sf-ultralight-filled/512/4D4D4D/telegram.png" alt="Telegram" width="47"/>
-  </a>
+  </a> -->
 </div>
 <p align="center">
   <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=darien.c.wrk@gmail.com&su=Hi,+dear+Darien.&body=I+want+to+contact+you+to…"><i><tt><b>darien.c.wrk@gmail.com</b></i></tt></a>
@@ -54,7 +54,7 @@ src="https://github-readme-streak-stats.herokuapp.com?user=artdasak&exclude_days
 </p>
 
 >[!IMPORTANT]
->You can contact me more easily by _WhatsApp_.
+>You can contact me more easily by _Discord_.
 
 <details open>  
   <summary><strong>🛠️ My Skill Set:</strong></summary>  
