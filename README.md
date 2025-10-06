@@ -29,10 +29,10 @@ src="https://github-readme-streak-stats.herokuapp.com?user=artdasak&exclude_days
   <a href="https://www.linkedin.com/in/darien-carvajal/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="27" width="50"/>
   </a>
-  <!-- &emsp;
-  <a href="https://instagram.com/darien_c_27" target="blank">
+  &emsp;
+  <a href="https://instagram.com/artdasak" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="27" width="50"/>
-  </a> -->
+  </a>
   &emsp;
   <a href="https://discord.gg/Hm8njfkTbf" target="blanck">
     <img align="center" src="https://static.vecteezy.com/system/resources/previews/023/986/880/non_2x/discord-logo-discord-logo-transparent-discord-icon-transparent-free-free-png.png" alt="Discord Channel" width="47"/>
@@ -71,6 +71,12 @@ src="https://github-readme-streak-stats.herokuapp.com?user=artdasak&exclude_days
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">  
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>  
         </a>  
+        <a href="https://es.react.dev/" target="_blank" rel="noreferrer">  
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/862px-React-icon.svg.png" alt="React" width="40"/>  
+        </a>  
+        <a href="https://nextjs.org/" target="_blank" rel="noreferrer">  
+          <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="Next.js" width="40"/>  
+        </a> 
       </td>  
     </tr>  
     <tr>  
@@ -81,6 +87,12 @@ src="https://github-readme-streak-stats.herokuapp.com?user=artdasak&exclude_days
         </a>  
         <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer">  
           <img src="https://www.json.org/img/json160.gif" alt="JSON" width="40"/>  
+        </a>  
+        <a href="https://nodejs.org" target="_blank" rel="noreferrer">  
+          <img src="https://cp.beget.com/shared/6ayu2lMsV1DpkfCrePd2HEMWvsKDBY-c/logo_nodejs2x.png.webp" alt="Node.js" width="40"/>  
+        </a>          
+        <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer">  
+          <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="Go" width="42"/>  
         </a>  
       </td>  
     </tr>  
@@ -141,6 +153,9 @@ src="https://github-readme-streak-stats.herokuapp.com?user=artdasak&exclude_days
           <a href="https://staruml.io/" target="_blank" rel="noreferrer">  
             <img src="https://media.imgcdn.org/repo/2023/03/staruml/staruml-for-macos-logo.png" alt="StarUML" width="40"/>  
           </a>  
+          <a href="https://cursor.com/" target="_blank" rel="noreferrer">  
+            <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png" alt="Cursor" width="40"/>  
+          </a> 
         </td>  
       </tr>  
       <tr>  
@@ -151,6 +166,9 @@ src="https://github-readme-streak-stats.herokuapp.com?user=artdasak&exclude_days
           </a>  
           <a href="https://blogs.windows.com/" target="_blank" rel="noreferrer">  
             <img src="https://img.icons8.com/color/512/windows-10.png" alt="Windows" width="40"/>  
+          </a>  
+          <a href="https://www.apple.com/co/os/macos/" target="_blank" rel="noreferrer">  
+            <img src="https://media.smart-pattern.com.ua/uploads/zinnia/2021/10/02/macos.png.600x600_q85.png" alt="MacOS" width="40"/>  
           </a>  
         </td>  
       </tr>  
